@@ -5,3 +5,5 @@ I was curious as to the distribution of the most common city names in the USA, s
 * final.png -- map
 * final_small.png -- small map
 * map_final.R -- R code to generate the map
+* nacol.R -- R code to color map according to 5 color theorem
+* traveling_salesperson_general.R -- R code to calculate tours of cities according to a traveling salesperson algorithm
